@@ -98,9 +98,9 @@ Each model is evaluated using the following metrics:
 
 | Model                | Accuracy | Precision | Recall | F1-Score |
 |----------------------|----------|-----------|--------|----------|
-| Logistic Regression   | 0.75     | 0.74      | 0.76   | 0.75     |
-| Decision Tree         | 0.78     | 0.79      | 0.77   | 0.78     |
-| Random Forest         | 0.80     | 0.81      | 0.79   | 0.80     |
+| Logistic Regression   | 0.65     | 0.62      | 0.63   | 0.63     |
+| Decision Tree         | 0.66     | 0.64      | 0.65   | 0.64     |
+| Random Forest         | 0.66     | 0.63      | 0.66   | 0.64     |
 
 Random Forest Classifier yielded the best results, with the highest accuracy and balanced precision and recall.
 
